@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\SimpleGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7544E392-D59C-437A-BF1E-6AE5FA8B4FEA}|Solution Items{7544E392-D59C-437A-BF1E-6AE5FA8B4FEA}|C:\\Users\\USER\\source\\repos\\SimpleGame\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7544E392-D59C-437A-BF1E-6AE5FA8B4FEA}|Solution Items{7544E392-D59C-437A-BF1E-6AE5FA8B4FEA}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|c:\\users\\user\\source\\repos\\simplegame\\simplegame\\forms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|solutionrelative:simplegame\\forms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -43,7 +47,7 @@
       "RelativeMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|solutionrelative:simplegame\\stage\\igamestage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|c:\\users\\user\\source\\repos\\simplegame\\simplegame\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|C:\\Users\\USER\\source\\repos\\SimpleGame\\simplegame\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|solutionrelative:simplegame\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
@@ -55,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|solutionrelative:simplegame\\resources\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|c:\\users\\user\\source\\repos\\simplegame\\simplegame\\forms\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|C:\\Users\\USER\\source\\repos\\SimpleGame\\simplegame\\forms\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{2825DAFF-CAC1-4316-AD48-6F517F9AD846}|SimpleGame\\SimpleGame.csproj|solutionrelative:simplegame\\forms\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
@@ -74,11 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SimpleGame\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T17:30:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Program.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Program.cs",
@@ -86,12 +103,11 @@
               "RelativeToolTip": "SimpleGame\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T11:11:54.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T11:11:54.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameMain.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Main\\GameMain.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Main\\GameMain.cs",
@@ -99,12 +115,11 @@
               "RelativeToolTip": "SimpleGame\\Main\\GameMain.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAUwDIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T11:08:06.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T11:08:06.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Forms\\GameForm.Designer.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Forms\\GameForm.Designer.cs",
@@ -117,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Forms\\GameForm.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Forms\\GameForm.cs",
@@ -129,19 +144,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Resource.resx",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Properties\\Resource.resx",
               "RelativeDocumentMoniker": "SimpleGame\\Properties\\Resource.resx",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Properties\\Resource.resx",
               "RelativeToolTip": "SimpleGame\\Properties\\Resource.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-27T11:22:19.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T11:22:19.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GameCharacterMe.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Character\\GameCharacterMe.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Character\\GameCharacterMe.cs",
@@ -149,12 +163,11 @@
               "RelativeToolTip": "SimpleGame\\Character\\GameCharacterMe.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAUwEwAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T14:00:41.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:00:41.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GamePoint.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Common\\GamePoint.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Common\\GamePoint.cs",
@@ -162,12 +175,11 @@
               "RelativeToolTip": "SimpleGame\\Common\\GamePoint.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAzwAsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:56:48.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T12:56:48.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameForm.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Forms\\GameForm.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Forms\\GameForm.cs",
@@ -175,12 +187,11 @@
               "RelativeToolTip": "SimpleGame\\Forms\\GameForm.cs",
               "ViewState": "AQIAAGEAAAAAAAAAAAAAwHIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T03:23:41.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T03:23:41.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GameStage1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Stage\\GameStage1.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Stage\\GameStage1.cs",
@@ -188,12 +199,11 @@
               "RelativeToolTip": "SimpleGame\\Stage\\GameStage1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T16:13:31.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T16:13:31.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IGameStage.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Stage\\IGameStage.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Stage\\IGameStage.cs",
@@ -201,12 +211,11 @@
               "RelativeToolTip": "SimpleGame\\Stage\\IGameStage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T16:25:53.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T16:25:53.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GameConst.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Common\\GameConst.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Common\\GameConst.cs",
@@ -214,12 +223,11 @@
               "RelativeToolTip": "SimpleGame\\Common\\GameConst.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T15:16:38.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T15:16:38.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Icon.ico - Icon [16x16, 8 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Resources\\Icon.ico",
               "RelativeDocumentMoniker": "SimpleGame\\Resources\\Icon.ico",
@@ -231,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GameForm.resx",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Forms\\GameForm.resx",
               "RelativeDocumentMoniker": "SimpleGame\\Forms\\GameForm.resx",
@@ -243,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Resource.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Properties\\Resource.Designer.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Properties\\Resource.Designer.cs",
@@ -251,12 +259,11 @@
               "RelativeToolTip": "SimpleGame\\Properties\\Resource.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T11:33:39.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T11:33:39.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "wall.bmp",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Resources\\wall.bmp",
               "RelativeDocumentMoniker": "SimpleGame\\Resources\\wall.bmp",
@@ -288,7 +295,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameMap.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SimpleGame\\SimpleGame\\Map\\GameMap.cs",
               "RelativeDocumentMoniker": "SimpleGame\\Map\\GameMap.cs",
